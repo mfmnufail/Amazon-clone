@@ -15,6 +15,7 @@ function Home() {
           price = {5.67}
           rating= {5}
           image = "https://images-na.ssl-images-amazon.com/images/I/61GcJ2DDvIL._AC_SL1000_.jpg"
+          
           />
           <Product
           id = {2}
